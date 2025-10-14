@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Base page styles */
+body {
+  font-family: Arial, Helvetica, sans-serif; /* main font */
+  font-size: 2rem; /* large text for visibility */
+}
+
+/* Center the content block */
+#content {
+  width: 600px;
+  margin: 0 auto;
+}
+
+/* Text with class 'hide' is disguised: white text + blue underline */
+.hide {
+  color: #fff;
+  border-bottom: 1px dotted blue;
+}
+
+/* On hover: the text becomes visible in red */
+.hide:hover {
+  color: #f00;
+  cursor: pointer; /* shows the pointer hand on hover */
+}
