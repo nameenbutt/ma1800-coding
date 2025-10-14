@@ -1,0 +1,32 @@
+body {
+
+background-color: lightblue;
+
+}
+
+
+
+    h1{
+
+        color:blueviolet;
+
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    }
+
+    /* style this paragraph*/
+    p{
+        color:aqua;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 28px;
+        border: 8px solid;
+
+    }
+
+    div {
+
+        border: 5px dashed rgb(30, 30, 111)
+        color(srgb red green blue)
+
+    }
+
