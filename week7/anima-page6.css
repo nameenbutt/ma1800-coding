@@ -1,0 +1,21 @@
+/* CSS Document */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    font-family: sans-serif;
+  }
+  
+  #container {
+    width: 300px;
+    height: 300px;
+    border: dashed 3px #000000; /* container to show the animation area */
+  }
+  
+  p {
+    font-size: 4rem;
+    margin: 0;
+    padding: 0;
+  }
+  

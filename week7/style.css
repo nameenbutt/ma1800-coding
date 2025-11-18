@@ -1,0 +1,11 @@
+/* CSS Document — Wireframing and Navigation */
+
+body {
+  font-family: sans-serif;
+  margin: 50px;
+}
+
+article {
+  width: 500px; /* fixed width for main text block */
+}
+
